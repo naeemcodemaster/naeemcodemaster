@@ -23,15 +23,6 @@
 <a href="https://www.linkedin.com/in/codemasterprogrammer/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://facebook.com/naeemkhan" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-</a>
-<a href="https://www.instagram.com/onlinecodemaster/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-<a href="https://www.youtube.com/c/naeemacademy" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-</a>
 </p>
 
 ---
