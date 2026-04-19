@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working as Senior Software Engineer at Healthstay.io
+- 🔭 I’m currently working as Senior Software Engineer at https://healthstay.io
 - 👨‍💻 Portfolio: https://naeemgull-portfolio.vercel.app/
 - 💬 Ask me about **React, React Native, Node JS, Express JS, PHP, MongoDB, MySQL**
 - 📫 Email: **nu170429@gmail.com**
-- 📄 Resume: https://naeemgull-portfolio.vercel.app/
+- 📄 Resume: https://naeemgull-portfolio.vercel.app/resume
 
 ---
 
